@@ -22,7 +22,7 @@ Review findings and recommendations.
 Contributions are welcome! Submit pull requests adhering to coding standards.
 
 ### License:
-MIT License
+   Apache License
 
 ## Contact:
 Anup Uppin 
